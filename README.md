@@ -4,6 +4,8 @@ Bu proje, fiş dosyalarından elde edilen kullanıcı yorumlarını Doğal Dil �
 
 Site: https://masraf-nlp.vercel.app/
 
+![Akış Diyagramı](images/akis_diyagrami.png)
+
 ## Proje Hakkında
 
 Sistem, masraf beyanlarındaki açıklamaları analiz ederek masrafın geçerli olup olmadığını tespit eder. Yalnızca makine öğrenmesi sınıflandırması yapmakla kalmaz, aynı zamanda gelişmiş bir kural tabanlı katman sayesinde bağlamı (olumsuzluk ekleri, yazım hataları vb.) anlayarak yüksek doğrulukta kararlar verir.
